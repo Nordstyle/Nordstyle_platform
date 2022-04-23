@@ -1,2 +1,2 @@
 # Nordstyle_platform
-sabakasab Platform repository
+Nordstyle Platform repository
